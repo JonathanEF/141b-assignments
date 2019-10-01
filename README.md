@@ -1,4 +1,4 @@
-**Jao Bang =)**
+
 
 # sta141b assignments
 STA 141B: Data and Web Technologies for Data Analysis
